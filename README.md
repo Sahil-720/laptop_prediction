@@ -1,3 +1,3 @@
 # laptop_prediction
-laptop dataset is used for prediction
-This is regression project
+This is regression project where laptop dataset is used for prediction
+
