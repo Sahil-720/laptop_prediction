@@ -34,7 +34,7 @@ It provides structured tabular data, making it ideal for:
 2. **Data Cleaning** → Removed duplicates, handled nulls, formatted features  
 3. **EDA** → Visualized distributions & relationships  
 4. **Feature Engineering** → Converted categorical columns using **One-Hot Encoding**
-5. **Modeling** → Regression models are used predict price  
+5. **Modeling** → Regression models as well as an **Artificial Neural Network (ANN)**  are used predict price.
 6. **Evaluation** → Metrics like RMSE, R², MSE  
 
 
