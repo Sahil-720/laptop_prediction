@@ -1,3 +1,4 @@
+# if load more button is absent at some point so can use this
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -53,4 +54,5 @@ time.sleep(5)
 html = driver.page_source
 
 with open('smartprix_24.html','w',encoding='utf-8') as f:
+
     f.write(html)
